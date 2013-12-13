@@ -8,7 +8,7 @@
     "components"
   ],
   "dependencies": {
-    "angular": "~1.0.7",
-    "cordova": "~2.7.0"
+    "angular": "~1.2.4",
+    "cordova": "~3.2.0"
   }
 }
